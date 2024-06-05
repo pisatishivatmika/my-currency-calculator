@@ -1,0 +1,27 @@
+{
+  "name": "my-currency-calculator1",
+  "version": "1.0.0",
+  "description": "An npm package for making currency conversions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisatishivatmika/my-currency-calculator.git"
+  },
+  "keywords": [
+    "npm",
+    "currency-calculator"
+  ],
+  "author": "Shivatmika Reddy Pisati",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pisatishivatmika/my-currency-calculator/issues"
+  },
+  "homepage": "https://github.com/pisatishivatmika/my-currency-calculator#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
